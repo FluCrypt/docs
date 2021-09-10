@@ -4,7 +4,6 @@ description: 'Official DeFi Kingdoms Whitepaper, last updated Aug 26, 2021'
 
 # Defi Kingdoms
 
-\*\*\*\*
 
 ![Come and join the kingdom!](.gitbook/assets/sunday-slide-1a.jpg)
 
