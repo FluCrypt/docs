@@ -10,5 +10,5 @@ From the Market, you can swap tokens at the current exchange rates. You can also
 
 ![What&apos;s in the vault? Treasures untold.](../.gitbook/assets/the-vault.png)
 
-Another unique feature we offer is the Bank, where you can deposit JEWEL tokens to receive xJEWEL shares. The Bank will receive fees from the DEX and periodically do a market buy for more JEWEL tokens, meaning your xJEWEL shares will always be worth more JEWELs than you put in! **Additionally, every in-game transaction of JEWELs will deposit a percentage into the Bank to further reward xJEWEL holders.**
+Another unique feature we offer is the Bank, where you can deposit JEWEL tokens to receive xJEWEL. The Bank will receive fees from the DEX and in-game fees, periodically doing a market buy for more JEWEL tokens, meaning your xJEWEL will always be worth more JEWELs than you put in! 
 
