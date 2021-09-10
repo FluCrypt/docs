@@ -20,7 +20,7 @@ Heroes have two sets of genes, one for appearance and another for their playable
 
 **Equipment**
 
-Heroes will be able to find and equip valuable equipment NFTs that will grant them special passive and active abilities, and increase their stats.
+Heroes will be able to find and equip valuable equipment NFTs that will grant them special passive and active abilities, and increase their stats. They will have a chance to find these equipment NFTs as quest rewards for certain quests.
 
 **Stats**
 
@@ -32,7 +32,7 @@ Heroes are able to go on various quests within the kingdom. Gardening guard duty
 
 **Pets**
 
-Heroes can sometimes find and capture rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive abilities, and more.
+Heroes can sometimes find and capture rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive abilities, and more. **Who knows? Maybe someday pets from other blockchain projects will find their way into our Kingdoms....**
 
 **PvP**
 
